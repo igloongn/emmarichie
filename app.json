@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "emma-app-v4",
+    "slug": "emma-app-v4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
